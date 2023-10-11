@@ -15,7 +15,7 @@ An understanding of the BIOS allows us to troubleshoot potential problems, under
 5. **What is the CMOS battery?**
 - The CMOS battery is maintains the CMOS/BIOS ROM with power which allows to settings to persist during times that the computer is turned off. This allows for several settings like boot order, peripheral port enabling/disabling, and more, to persist between shutdowns and prevents security loopholes to get around these settings.
 
-## Prowler Boot Virus ([link])(https://www.youtube.com/watch?v=fSL4J0zhMcY)
+## Prowler Boot Virus ([link](https://www.youtube.com/watch?v=fSL4J0zhMcY))
 A MS-DOS virus that would infect any executable file and lived in the boot partition. It activated itself on the 13th on the month and showed a message and animation of a Lemming (love that game!) marching across the screen before booting the computer like normal. While the payload was seemingly innocuous -- it increased the size of every file it infected and at the time storage space was severely lmited which could cause problems if sufficient files were infected -- the implications and its ability to infect each and every executable was much more terrifting. Awesome stuff! 
 
 ## Things I'd Like to Know More About
