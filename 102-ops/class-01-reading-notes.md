@@ -18,17 +18,17 @@ Despite multiple companies (**Amazon, Apple, Supermicro**) denying such a securi
 
 ### Questions:
 
-**1. How is a hardware hack different than a software hack?**
-   -  Unlike software hacks, which target security holes in the software of a machine and can be patched, hardware hacks are decidedly more nefarious and dangerous as they are significantly more difficult to detect, can give backdoor access to the compromised machine, and cannot be patched in the same ways a software hack can be patched.
-   -  However, hardware hacks leave a real-world trail. Components aren't cheap and they leave a paper trail as they are shipped and sent all over the world. 
+1. **How is a hardware hack different than a software hack?**
+   - Unlike software hacks, which target security holes in the software of a machine and can be patched, hardware hacks are decidedly more nefarious and dangerous as they are significantly more difficult to detect, can give backdoor access to the compromised machine, and cannot be patched in the same ways a software hack can be patched.
+   - However, hardware hacks leave a real-world trail. Components aren't cheap and they leave a paper trail as they are shipped and sent all over the world. 
 2. **What are the two ways for a spy to alter a computer's hardware?**
    -  *Interdiction*, favored by US intelligence agencies, intercepts the hardware in transit between manufacturer and consumer (or contractor like **Supermicro**). The alternative is to build the hack into the device during the manufacturing process as seen in this hack.
 3. **Explain how the hack worked.**
-   -  Incredibly small, the chips were designed to by as inconspicuous as possible, easily mistakeable for signal conditioning couplers rather than microchips. Officials familiar with the investigation say the chips were made to create backdoors for other attackers to gain access to the compromised computers. They accomplished this by manipulating the operating instructions of the server that dictates what to do as data moves across the motherboard. As the computer's operating system (stored in the temporary memory) was en route to the CPU, the chip intercepted the data and could inject its own code or alter the instructions to the CPU. 
-   -  Due to the devices' small size, the code it could store and inject was also small but it was enough to allow it to tell the PC to contact computers on the internet with more complex code and able to prepare the computer's operating system to accept the more complex code. This was possible because the chip was connected to the *baseboard management controller*, a chip commonly used by sysadmins to remote log into servers. 
-   -  This could allow attackers to alter how the server functioned in an almost completely undetectable manner.
+   - Incredibly small, the chips were designed to by as inconspicuous as possible, easily mistakeable for signal conditioning couplers rather than microchips. Officials familiar with the investigation say the chips were made to create backdoors for other attackers to gain access to the compromised computers. They accomplished this by manipulating the operating instructions of the server that dictates what to do as data moves across the motherboard. As the computer's operating system (stored in the temporary memory) was en route to the CPU, the chip intercepted the data and could inject its own code or alter the instructions to the CPU. 
+   - Due to the devices' small size, the code it could store and inject was also small but it was enough to allow it to tell the PC to contact computers on the internet with more complex code and able to prepare the computer's operating system to accept the more complex code. This was possible because the chip was connected to the *baseboard management controller*, a chip commonly used by sysadmins to remote log into servers. 
+   - This could allow attackers to alter how the server functioned in an almost completely undetectable manner.
 4. **How were investigators able to trace the chips back to the source?**
-   -  Investigators traced the **Supermicro** supply chain backwards towards the three primary manufacturers constructing its motherboards. US intelligence agencies used communication intercepts, informants, and even mobile phone tracking to discover which subcontractors were utilized and which had been compromised by Chinese agents.
+   - Investigators traced the **Supermicro** supply chain backwards towards the three primary manufacturers constructing its motherboards. US intelligence agencies used communication intercepts, informants, and even mobile phone tracking to discover which subcontractors were utilized and which had been compromised by Chinese agents.
 
 ## Things I Want to Know More About
 Hardware hacking in general and the process in which these hacks can be detected in software activity, if possible.
