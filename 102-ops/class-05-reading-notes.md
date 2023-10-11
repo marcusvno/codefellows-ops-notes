@@ -28,7 +28,7 @@ The command line is one of the most important tools in cybersecurity (and server
     - `mv` is also used to rename files. To do so you indicate the file and what it will be renamed to. It is possible to note that you can move and rename a file in the same command.
        -  Syntax: `mv <file_name> <new_file_name>`
        -  Rename example: `mv example.txt old_example.txt` 
-          - Note the use of file extensions. This is important for the `mv` to know that this is a rename operation. However, you do not have to use the same file extension. Example: `mv example.txt example.md`
+          - Without the use of a `/` Linux will assume that you are renaming a file.
        - Rename & move example: `mv example.txt ~/Documents/old_example.txt`
 3. **What are relative and absolute paths? What is special about starting with a ~ (tilde) or a ‘/’ character in the path?**
    - A *relative path* depends on what your working directory is and is relative to that position. An *absolute path* is the fixed location of a file or directory and can be used regardless of where in the file system you are located. A good analogy is determining the location of something based on where you -- for instance, whether you turn left on street depends on the direction you, the driver, is coming from -- versus it's coordinates on a map, which never change regardless of where you are coming from. 
