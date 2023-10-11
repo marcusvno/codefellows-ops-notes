@@ -1,4 +1,4 @@
-# Class 03 Reading Assignment
+# Class 04 Reading Assignment
 ## Installing Ubuntu ([link](https://web.archive.org/web/20220312030901/https://www.lifewire.com/beginners-guide-to-ubuntu-2205722))
 ## Why It Matters
 Linux is one of the most prevailing server operating systems and the industry standard for cybersecurity tools through distributions such as Kali.
