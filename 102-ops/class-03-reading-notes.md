@@ -13,5 +13,8 @@
 5. **What is the CMOS battery?**
 - The CMOS battery is maintains the CMOS/BIOS ROM with power which allows to settings to persist during times that the computer is turned off. This allows for several settings like boot order, peripheral port enabling/disabling, and more, to persist between shutdowns and prevents security loopholes to get around these settings.
 
+## Prowler Boot Virus
+A MS-DOS virus that would infect any executable file and lived in the boot partition. It activated itself on the 13th on the month and showed a message and animation of a Lemming (love that game!) marching across the screen before booting the computer like normal. While the payload was seemingly innocuous -- it increased the size of every file it infected and at the time storage space was severely lmited which could cause problems if sufficient files were infected -- the implications and its ability to infect each and every executable was much more terrifting. Awesome stuff! 
+
 ## Things I'd Like to Know More About
 The reading mentioned UEFI as a modern alternative to the BIOS. As our lab PC is set to Legacy mode would changing it to UEFI change that interface? Would that affect the bootloader in any way or is it like switching between Browsers, with each offering different experiences but the same fundamental functionalities?
