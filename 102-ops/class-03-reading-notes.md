@@ -1,7 +1,9 @@
 # Class 03 Reading Assignment
 ## What is BIOS ([link](https://www.learncomputerscienceonline.com/bios/))
 ## Why It Matters
+An understanding of the BIOS allows us to troubleshoot potential problems, understand the similarities between the real machine operates and a virtual machine will operate, and (as shown by the Prowler video) is another possible vector of attack which we must be mindful of.
 
+## Questions
 1. **What is the BIOS?**
 - The Basic Input Output System (BIOS) is firmware (code that lives in ROM on the motherboard) that checks the hardware components and boots the operating system when a computer is turned on.
 2. **Use analogies from your previous background to explain what happens during the booting process?**
