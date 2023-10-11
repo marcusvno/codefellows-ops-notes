@@ -5,7 +5,7 @@ The command line is one of the most important tools in cybersecurity (and server
 
 ## Questions
 1. Explain the terms “shell”, “terminal”, “cli”, and “command prompt”. Why are these still used today, when we have graphical interfaces?
-   - <u>shell</u> - 
+   - <u>shell<u> - 
    - __tem
    -
 3. What are the commands to change directories, list the file’s contents and rename/move files?
