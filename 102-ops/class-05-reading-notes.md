@@ -25,7 +25,7 @@ The command line is one of the most important tools in cybersecurity (and server
    - `mv` (move) is used to move files. To move a file you must indicate the file you wish to move and the location you wish to move it to.
        -  Syntax: `mv <file_name> <Destination_path>`
        -  Move example: `mv text.txt ~/Documents/`
-    - `mv` is also used to rename files. To do so you indicate the file and what it will be renamed to. It is possible to note that you can move and rename a file in teh same command.
+    - `mv` is also used to rename files. To do so you indicate the file and what it will be renamed to. It is possible to note that you can move and rename a file in the same command.
        -  Syntax: `mv <file_name> <new_file_name>`
        -  Rename example: `mv example.txt old_example.txt` 
           - Note the use of file extensions. This is important for the `mv` to know that this is a rename operation. However, you do not have to use the same file extension. Example: `mv example.txt example.md`
