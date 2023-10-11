@@ -31,14 +31,14 @@ The command line is one of the most important tools in cybersecurity (and server
           - Note the use of file extensions. This is important for the `mv` to know that this is a rename operation. However, you do not have to use the same file extension. Example: `mv example.txt example.md`
        - Rename & move example: `mv example.txt ~/Documents/old_example.txt`
 3. **What are relative and absolute paths? What is special about starting with a ~ (tilde) or a ‘/’ character in the path?**
-   - A *relative path* depends on what your working directory is and is relative to that position. An *absolute path* can be used regardless of where in the file system you are located.
+   - A *relative path* depends on what your working directory is and is relative to that position. An *absolute path* is the fixed location of a file or directory and can be used regardless of where in the file system you are located. A good analogy is determining the location of something based on where you -- for instance, whether you turn left on street depends on the direction you, the driver, is coming from -- versus it's coordinates on a map, which never change regardless of where you are coming from. 
         - Relative path example: `mv example.txt ../class-02/` 
            - This command would move the `example.txt` from this directory to the `class-02` directory in the parent directory of the directory we are currently in.
         - Local absolute path example: `mv example.txt ~/Documents/class-02/` 
-           - This command would move the `example.txt` file from this directory to the `class-02` directory in `~/Documents/` from almost any working directory we are in. 
+           - This command would move the `example.txt` file from our working directory (current location) to the `class-02` directory in `~/Documents/` 
         - Total absolute path example: `mv ~/Downloads/ubuntu.iso ~/Documents/Codefellows/Linux-ISOs/` 
-           - This command would move the `ubuntu.iso` file to the `~/Documents/Codefellows/Linux-ISOs/` directory regardless if the working directory is `~/Downloads/` or elsewhere in the file system.
-    - The `/` path is your *root directory*.
+           - This command would move the `ubuntu.iso` file to the `~/Documents/Codefellows/Linux-ISOs/` directory regardless of our working directory.
+    - The `/` path is your *root directory* and is the absolute base of the entire filesystem.
     - The `~` path is your user's *home directory*. (The absolute path of the home directory is `/home/<username>`)
 4. **Explain what Linux is, using anything except English.**
    - Linux é uma marca de sistemas operacionais que utiliza o kernel Linux criado por Linus Torvalds.
