@@ -22,3 +22,6 @@ Networks are the infrastructure which cybersecurity protects understand how netw
    - WRT54GL does not have 5GHz wireless band capability and FCC rules only restrict interference with that band.
 9. **Does the WRT54GL model still get updates from Linksys?**
    - Yes, as of the publication of this article in 2016, it continues to receive updates to fix security vulnerabilities or to address manufacturing issues.
+
+## Things I Want To Know More About
+What other things does the open source community tinker with? Are there any other community projects like this?
