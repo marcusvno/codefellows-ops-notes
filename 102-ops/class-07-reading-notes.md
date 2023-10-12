@@ -1,5 +1,6 @@
 # Class 07 Reading Assignment
 ## Why It Matters
+We will be using SSH to connect to the command line of our Lab PC and RDP to remote into the GUI of the Lab PC.
 
 ## SSH Protocol ([link](https://www.ssh.com/academy/ssh/protocol))
 1. **What is the Secure Shell (SSH) Protocol?**
