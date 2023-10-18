@@ -1,6 +1,6 @@
 # Table of Contents
 
-## [Class 01](/class-01-reading-notes.md)
+## [Class 01](102-ops/class-01-reading-notes.md)
 ## Class 02
 ## Class 03
 ## Class 04
