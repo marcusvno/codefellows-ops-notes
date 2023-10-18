@@ -1,6 +1,6 @@
 # Table of Contents
 
-## [Class 01](102-ops/class-01-reading-notes.md)
+## [Class 01](https://github.com/marcusvno/codefellows-ops-notes/blob/main/102-ops/class-01-reading-notes.md#class-01-reading-assignment)
 ## Class 02
 ## Class 03
 ## Class 04
