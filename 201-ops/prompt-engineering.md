@@ -22,7 +22,7 @@
 
 **Instructions:**
 
-1. **Soaking the Chickpeas: **
+1. **Soaking the Chickpeas:**
    - The night before, rinse the chickpeas thoroughly and then soak them in cold water, making sure they are fully submerged. Let them soak overnight. They will double in size during this process.
 2. **Preparing the Mixture:**
    - After the chickpeas have soaked, drain and rinse them again.
