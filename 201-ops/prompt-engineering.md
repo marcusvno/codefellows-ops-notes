@@ -22,16 +22,17 @@
 
 **Instructions:**
 
-1. Soaking the Chickpeas: The night before, rinse the chickpeas thoroughly and then soak them in cold water, making sure they are fully submerged. Let them soak overnight. They will double in size during this process.
-2. Preparing the Mixture:
+1. **Soaking the Chickpeas: **
+   - The night before, rinse the chickpeas thoroughly and then soak them in cold water, making sure they are fully submerged. Let them soak overnight. They will double in size during this process.
+2. **Preparing the Mixture:**
    - After the chickpeas have soaked, drain and rinse them again.
    - Place the chickpeas in a food processor with the onion, garlic, parsley, cilantro, cumin, coriander, salt, black pepper, cayenne, lemon juice, and olive oil.
    - Process the mixture until it becomes a fine, crumbly, and slightly paste-like consistency. If it's too dry, add a little water. If it's too wet, add a bit more flour. You should be able to form balls without them falling apart.
-3. Forming the Falafel Balls/Patties:
+3. **Forming the Falafel Balls/Patties:**
    - Sprinkle the baking soda over the falafel mixture and mix well.
    - Take a bit of the mixture and form it into a small ball or patty, using your hands. You can make them as big or as small as you prefer, but typically they are about the size of a walnut.
 
-4. Frying the Falafel:
+4. **Frying the Falafel:**
    - Heat about 3 inches of oil in a deep pot or frying pan to 350°F (175°C).
    - Before frying the entire batch, fry a test falafel. It should sizzle when it hits the oil and brown in about 3-5 minutes.
    - Fry the falafel in batches, making sure not to overcrowd the pan. Turn them occasionally so they brown evenly.
