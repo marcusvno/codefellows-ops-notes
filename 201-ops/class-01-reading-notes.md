@@ -1,6 +1,6 @@
 # Class 01 Reading Assignment
 
-## How to Use System Restore in Windows - [link](https://www.lifewire.com/how-to-use-system-restore-in-windows-2626131)
+## How to Use System Restore in Windows - ([link](https://www.lifewire.com/how-to-use-system-restore-in-windows-2626131))
 
 1. What is the purpose of the Windows System Restore tool?
    - The Windows System Restore tool is to revert the system to a previous established *restore point* which holds the saved software, registry, and driver configuration of when the *restore point* was created. It is similar to the *snapshot* function of VirtualBox. Once activated, the System Restore tool will undo all changes since the *restore point* was created. 
