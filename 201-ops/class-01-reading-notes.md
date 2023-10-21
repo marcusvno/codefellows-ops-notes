@@ -8,7 +8,7 @@
    - Using the System Restore Tool revert to a previous point takes anywhere from 10 to 30 minutes. 
 3. **How do you start a System Restore from the command prompt?**
    - Run the **rstrui.exe** command in the Command Prompt. 
-4. ** What options are available if System Restore did not fix the problem?**
+4. **What options are available if System Restore did not fix the problem?**
    - If the System Restore doesn't fix the problem, then you can restore to an even earlier restore point, repeating the process until you find a configuration where the problem was not occuring. You may also need to try restoring in Windows Safe Mode in case there is malicious software loading with the normal Windows start.
 
 ## Things I Want to Know More About
