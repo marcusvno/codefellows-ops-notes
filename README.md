@@ -13,4 +13,4 @@
 
 ## Ops 201 - Foundations of Computer Operations
 1. [Class 01 - Windows Restore Tool](https://github.com/marcusvno/codefellows-ops-notes/blob/main/201-ops/class-01-reading-notes.md#class-01-reading-assignment)
-2. [Class 02 - Dev Tools](https://github.com/marcusvno/codefellows-ops-notes/blob/main/201-ops/class-02-reading-notes.md#class-02-reading-assignment)
+2. [Class 02 - What is Bash](https://github.com/marcusvno/codefellows-ops-notes/blob/main/201-ops/class-02-reading-notes.md#class-02-reading-assignment)
