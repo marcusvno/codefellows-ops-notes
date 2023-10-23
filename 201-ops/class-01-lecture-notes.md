@@ -42,3 +42,14 @@ An effective Backup Strategy considers:
    - Takes a long time to spin up.
    - Less costly than *hot sites.*
 
+### Systems Redundancy
+
+Systems redundancy is the duplication or replication of critical systems to maximize uptime.
+
+- **High Availability**
+   - Achieved when redudancy is implemented in case the first server goes down. 
+   - *High availability is not a substitute for a good back up strategy!
+- **Failover** 
+   - Occurs when the primary server fails over to the back up server.
+- **Cluster**
+   - A set of servers taht work together to deliver the same 
