@@ -1,6 +1,6 @@
 # Class 03 Reading Assignment
 
-## Introduction to Help Desk Support Roles [link](https://www.pearsonitcertification.com/articles/article.aspx?p=2260779&seqNum=5)
+## Introduction to Help Desk Support Roles ([link](https://www.pearsonitcertification.com/articles/article.aspx?p=2260779&seqNum=5))
 
 1. What roles does the help desk professional play within an organization, particularly in relation to customers?
    - The Help Desk professional is often the "face" of the IT staff that customers see and interact with and are often the first line of support a customer has when they experience a problem. 
