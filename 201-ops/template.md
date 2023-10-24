@@ -1,5 +1,5 @@
 # Class X Reading Assignment
 
-## Title - [link]()
+## Title ([link]())
 
 ## Things I Want to Know More About
