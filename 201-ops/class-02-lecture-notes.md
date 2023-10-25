@@ -20,8 +20,10 @@
 
 **A Developer Needs:**
 - Somewhere to write and run code
+   - Development environment
 - Tools to:
    - Write the code
+      - Text editor
    - Navigate the file system
    - Track changes to the code. 
 
@@ -42,6 +44,6 @@
 - Inputs and Outputs of commands can be directed, allowing the creation of complex operations.
    - Commands can take inputs from a user, from a file, 
 
-### 
+ 
 
 
