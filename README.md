@@ -15,7 +15,7 @@
 1. [Class 01 - Windows Restore Tool](https://github.com/marcusvno/codefellows-ops-notes/blob/main/201-ops/class-01-reading-notes.md#class-01-reading-assignment)
 2. [Class 02 - What is Bash](https://github.com/marcusvno/codefellows-ops-notes/blob/main/201-ops/class-02-reading-notes.md#class-02-reading-assignment)
 3. [Class 03 - Introduction to Help Desk Support Roles](https://github.com/marcusvno/codefellows-ops-notes/blob/main/201-ops/class-03-reading-notes.md#class-03-reading-assignmen5)
-4. [Class 04]()
+4. [Class 04 - CompTIA A+ Troubleshooting Methodology](https://github.com/marcusvno/codefellows-ops-notes/blob/main/201-ops/class-04-reading-notes.md#class-04-reading-assignment)
 5. [Class 05]()
 6. [Class 06]()
 7. [Class 07]()
