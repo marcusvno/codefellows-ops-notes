@@ -1,6 +1,6 @@
 # Class 07 Reading Assignment
 
-## OS Upgrade and Remote Access
+## Introduction to PowerShell
  - [Should you learn PowerShell?](https://www.techthoughts.info/ps1-should-you-learn-powershell/)
  - [Who needs Malware? IBM says most hackers just PowerShell through boxes now, leaving little in the way of footprints](https://www.theregister.com/2019/02/26/malware_ibm_powershell/)
 
