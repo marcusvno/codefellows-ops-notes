@@ -1,7 +1,7 @@
 # Tables of Contents
 
 ## Ops 102 - Introduction to Computer Operations
-1. [Class 01 - The Big Hack](https://github.com/marcusvno/codefellows-ops-notes/blob/main/102-ops/class-01-reading-notes.md#class-01-reading-assignment)
+1.Class 01 - [The Big Hack](https://github.com/marcusvno/codefellows-ops-notes/blob/main/102-ops/class-01-reading-notes.md#class-01-reading-assignment)
 2. [Class 02 - How to Build a Computer](https://github.com/marcusvno/codefellows-ops-notes/blob/main/102-ops/class-02-reading-notes.md#class-02-reading-assignment)
 3. [Class 03 - What is the BIOS?](https://github.com/marcusvno/codefellows-ops-notes/blob/main/102-ops/class-03-reading-notes.md#class-03-reading-assignment)
 4. [Class 04 - Installing Ubuntu](https://github.com/marcusvno/codefellows-ops-notes/blob/main/102-ops/class-04-reading-notes.md#class-04-reading-assignment)
