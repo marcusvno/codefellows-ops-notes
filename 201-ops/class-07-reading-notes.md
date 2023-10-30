@@ -1,4 +1,4 @@
-# Class X Reading Assignment
+# Class 07 Reading Assignment
 
 ## OS Upgrade and Remote Access
  - [Should you learn PowerShell?](https://www.techthoughts.info/ps1-should-you-learn-powershell/)
