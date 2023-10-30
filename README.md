@@ -17,7 +17,7 @@
 3. [Class 03 - Introduction to Help Desk Support Roles](https://github.com/marcusvno/codefellows-ops-notes/blob/main/201-ops/class-03-reading-notes.md#class-03-reading-assignmen5)
 4. [Class 04 - CompTIA A+ Troubleshooting Methodology](https://github.com/marcusvno/codefellows-ops-notes/blob/main/201-ops/class-04-reading-notes.md#class-04-reading-assignment)
 5. [Class 05 - Microsoft Command Line Tools](https://github.com/marcusvno/codefellows-ops-notes/blob/main/201-ops/class-05-reading-notes.md#class-05-reading-assignmen)
-6. [Class 06]()
+6. [Class 06 - Windows Defender Security Center](/201-ops/class-06-reading-notes.md#class-06-reading-assignment)
 7. [Class 07]()
 8. [Class 08]()
 9. [Class 09]()
