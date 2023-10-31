@@ -21,9 +21,8 @@
     - SOPs are the mechanicisms in which policies are made actionable. 
 4. **What does the author emphasize regarding the audience when writing SOPs, and why is it essential to consider them?**
     - A SOP must be detailed enough to actually deal with circumstances that arise but not so detailed and obtuse that no one will read them. It is a fine line between informative and usable. If it does not work for your audience then your SOP *does not work*. Periodic reviews of SOPs with the people who use them will help identify problems and incorporate improvements.
-
 5. **Imagine you are a part of a multicultural team responsible for following an SOP. How would you address potential misunderstandings or differing interpretations of the procedure due to cultural differences? Propose strategies to foster effective cross-cultural communication.**
-    - 
+    - SOPS with succint steps and graphics would help minimize any confusion created by any cultural and language differences. A more regular review of the SOPs with a crosscultural team would ensure that everyone is on the same page as well.
 
 ## Things I Want to Know More About
 Does ticket documentation feed into SOP writing? Are they linked?
