@@ -20,7 +20,7 @@
 6. Class 06 - [Windows Defender Security Center](/201-ops/class-06-reading-notes.md#class-06-reading-assignment)
 7. Class 07 - [Introduction to PowerShell](/201-ops/class-07-reading-notes.md#class-07-reading-assignment)
 8. Class 08 - [Windows Registry Demystified ](/201-ops/class-08-reading-notes.md#class-08-reading-assignment)
-9. Class 09 - [](/201-ops/class-09-reading-notes.md#class-09-reading-assignment)
+9. Class 09 - [Workstation Deployment SOP](/201-ops/class-09-reading-notes.md#class-09-reading-assignment)
 10. Class 10 - [](/201-ops/class-10-reading-notes.md#class-10-reading-assignment)
 11. Class 11 - [](/201-ops/class-11-reading-notes.md#class-11-reading-assignment)
 12. Class 12 - [](/201-ops/class-12-reading-notes.md#class-12-reading-assignment)
