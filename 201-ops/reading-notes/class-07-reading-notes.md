@@ -40,6 +40,7 @@
 - [Microsoft Docs: What is PowerShell](https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7)
 - [Microsoft Docs: Getting Started with PowerShell](https://docs.microsoft.com/en-us/powershell/scripting/learn/ps101/01-getting-started?view=powershell-7)
 - [Quick Reference - PowerShell Variables and Operators](https://ss64.com/ps/syntax-variables.html)
+- [How to Run PowerShell on a Remote Computer](https://www.howtogeek.com/117192/how-to-run-powershell-commands-on-remote-computers/)
 
 
 ## Things I Want to Know More About
