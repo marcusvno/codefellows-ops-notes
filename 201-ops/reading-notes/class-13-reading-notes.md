@@ -14,6 +14,7 @@
     - Virtualization and the cloud subsidizes computing to those without the resources for an enterprise environment with a lot of computers or high-end computers. It allows for computing to be leveraged at scales that small companies and communities may not be able to achieve and with a large company, like Amazon and Google, it can drive the cost down to make it affordable for a much wider clientele than before. In many ways it recreates the days of the mainframe and dumb terminals but at potentially global scale, meaning an internet connection and cheap hardware is all that is necessary to utilize cloud computing and virtualization.
 
 ## Additional Resources
-
+[AWS Cloud Practitioner Essentials (Second Edition): AWS Core Services](https://explore.skillbuilder.aws/learn/course/external/view/elearning/1990/aws-cloud-practitioner-essentials-core-services)
 
 ## Things I Want to Know More About
+What is a Xen Hypervisor? How does it different than the virtualization platforms we've covered so far?
