@@ -24,7 +24,7 @@
 10. Class 10 - [Imaging, Backup, and Recovery](/201-ops/reading-notes/class-10-reading-notes.md#class-10-reading-assignment)
 11. Class 11 - [SSD Data Recovery Best Practices](/201-ops/reading-notes/class-11-reading-notes.md#class-11-reading-assignment)
 12. Class 12 - [Intro to pfSense](/201-ops/reading-notes/class-12-reading-notes.md#class-12-reading-assignment)
-13. Class 13 - [](/201-ops/reading-notes/class-13-reading-notes.md#class-13-reading-assignment)
+13. Class 13 - [Cloud Virtualization with AWS](/201-ops/reading-notes/class-13-reading-notes.md#class-13-reading-assignment)
 14. Class 14 - [](/201-ops/reading-notes/class-14-reading-notes.md#class-14-reading-assignment)
 15. Class 15 - [](/201-ops/reading-notes/class-15-reading-notes.md#class-15-reading-assignment)
 

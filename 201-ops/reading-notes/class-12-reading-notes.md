@@ -23,5 +23,8 @@
 5. **Reflect on the importance of cultural awareness in the field of network security and administration. How might cultural differences influence decision-making and problem-solving when dealing with virtual routers and firewalls, like pfSense, in a global context?**
     - Time zone differences and language barriers may make configuring administrative points on a server network confusing. A unifying SOP and well defined policies will keep everyone on the same page.
 
+## Additional Resources
+[How to Install and Setup pfSense in VirtualBox](https://getlabsdone.com/how-to-install-pfsense-on-virtualbox/)
+
 ## Things I Want to Know More About
 If we will ever be given an example for these multicultural questions because I'm starting to have difficulties on how to connect these with the material we're reading. Is there a case in which a multinational/crosscultural company had a security issue develope due to that culture clash? What did they do to fix address it?Is there a normalized SOP that companies use to deal with these problems? Some guidance would be welcome. 
