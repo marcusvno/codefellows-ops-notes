@@ -27,5 +27,12 @@
 13. Class 13 - [Cloud Virtualization with AWS](/201-ops/reading-notes/class-13-reading-notes.md#class-13-reading-assignment)
 14. Class 14.1 - [Malware Remediation Tools and Techniques](/201-ops/reading-notes/class-14-reading-notes-pt1.md#class-14-reading-assignment)
 14. Class 14.2 - [Psychological Safety](201-ops/reading-notes/class-14-reading-notes-pt-2.md#class-14-reading-assignment)
-15. Class 15 - [](/201-ops/reading-notes/class-15-reading-notes.md#class-15-reading-assignment)
+15. Class 15 - No Reading Assignment.
+
+## Ops 301 - Networking
+1. Class 01 - []()
+2. Class 02 - []()
+3. Class 03 - []()
+4. Class 04 - []()
+5. Class 05 - []()
 
