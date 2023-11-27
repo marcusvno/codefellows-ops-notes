@@ -8,13 +8,13 @@
 1. **What does “OSI” stand for?**
     - Open System Interconnections
 2. **List the 7 layers of the OSI model and what each one is responsible for.**
-    7. *Application* - It is the layer in which protocols and rules are in place to determine how the user should interact with data sent or received.
-    6. *Presentation* - The presentation layer is also called the Translation layer. The data from the application layer is extracted here and manipulated as per the required format to transmit over the network. 
-    5. *Session* - This layer is responsible for the establishment of connection, maintenance of sessions, and authentication, and also ensures security.
-    4. *Transport* - It is responsible for the End to End Delivery of the complete message.
-    3. *Network* - Works for the transmission of the data from one host to another through packet routing and reassembly of data.
-    2. *Data Link* - Focuses on the physical addressing of the transmission
     1. *Physical Layer* - The actual physical connection between devices (ethernet cable). 
+    2. *Data Link* - Focuses on the physical addressing of the transmission
+    3. *Network* - Works for the transmission of the data from one host to another through packet routing and reassembly of data.
+    4. *Transport* - It is responsible for the End to End Delivery of the complete message.
+    5. *Session* - This layer is responsible for the establishment of connection, maintenance of sessions, and authentication, and also ensures security.
+    6. *Presentation* - The presentation layer is also called the Translation layer. The data from the application layer is extracted here and manipulated as per the required format to transmit over the network. 
+    7. *Application* - It is the layer in which protocols and rules are in place to determine how the user should interact with data sent or received.
 3. **Distinguish which layers are the “hardware layers”, and which layers are the “software layers”. What does that even mean?**
     - Physical and Data link layers are linked to the physical hardware necesssary to network devices and therefore are hardware layers. The other layers are part of the transmission, encapsulation, translation, and production of data, which all happen in the software of a device.
 4. **How can the OSI model be used in troubleshooting?**
