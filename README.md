@@ -30,7 +30,7 @@
 15. Class 15 - No Reading Assignment.
 
 ## Ops 301 - Networking
-1. Class 01 - []()
+1. Class 01 - [Network Traffic Analysis](301-ops/reading-notes/class-01-reading-notes.md#class-01-reading-assignment)
 2. Class 02 - []()
 3. Class 03 - []()
 4. Class 04 - []()
