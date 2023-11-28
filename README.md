@@ -31,7 +31,7 @@
 
 ## Ops 301 - Networking
 1. Class 01 - [Network Traffic Analysis](301-ops/reading-notes/class-01-reading-notes.md#class-01-reading-assignment)
-2. Class 02 - []()
+2. Class 02 - [Network Scanning with nmap](301-ops/reading-notes/class-02-reading-notes.md#class-01-reading-assignment)
 3. Class 03 - []()
 4. Class 04 - []()
 5. Class 05 - []()
