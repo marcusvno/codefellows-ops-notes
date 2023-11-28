@@ -41,7 +41,10 @@
 |Packet captures galore, with an emphasis on security|http://www.malware-traffic-analysis.net/|
 |Packet captures by protocol|https://www.netresec.com/?page=pcapfiles|
 |Additional packet captures|http://tcpreplay.appneta.com/wiki/captures.html|
-|Wireshark cheat sheet|http://packetlife.net/media/library/13/Wireshark_Display_Filters.pdf|
+|Wireshark cheat sheet 1|http://packetlife.net/media/library/13/Wireshark_Display_Filters.pdf|
+|Wireshark cheat sheet 2|https://www.comparitech.com/net-admin/wireshark-cheat-sheet/|
+
+![wireshark-cheat-sheet](https://cdn.comparitech.com/wp-content/uploads/2019/06/Wireshark-Cheat-Sheet-1.jpg.webp)
 
 
 ## Things I Want to Know More About
