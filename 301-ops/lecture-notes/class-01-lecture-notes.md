@@ -4,7 +4,7 @@
 
 ### OSI Layers
 ![osi_layers](https://codefellows.github.io/ops-301-guide/curriculum/class-01/slides/assets/01_06.png)
-
+![osi2](../../images/osi_layers.png)
 
 ### Packet Capture
 
