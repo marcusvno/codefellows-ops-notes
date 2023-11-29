@@ -15,7 +15,7 @@
 4. **What does the final digit after the “/” represent in an IPv4 address?**
    - The number after "/" represents how many bits make up the subnet mask.
 5. **How many IP addresses are in the CIDR block 10.0.0.0/24?**
-   - 256. The larger the mask, the more bits (measured in octets) are not used and therefore the smaller the IP range.
+   - 256 IP addresses. The larger the mask, the more bits (measured in octets) are not used and therefore the smaller the IP range.
 
 [What Is Network Segmentation and Why It Matters?](https://www.comptia.org/blog/security-awareness-training-network-segmentation)
 
