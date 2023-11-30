@@ -36,5 +36,5 @@
 1. Class 01 - [Network Traffic Analysis](301-ops/reading-notes/class-01-reading-notes.md#class-01-reading-assignment)
 2. Class 02 - [Network Scanning with nmap](301-ops/reading-notes/class-02-reading-notes.md#class-02-reading-assignment)
 3. Class 03 - [Network Segmentation](301-ops/reading-notes/class-03-reading-notes.md#class-03-reading-assignment)
-4. Class 04 - []()
+4. Class 04 - [Routing and VirtualBox](301-ops/reading-notes/class-04-reading-notes.md#class-04-reading-assignment)
 5. Class 05 - []()

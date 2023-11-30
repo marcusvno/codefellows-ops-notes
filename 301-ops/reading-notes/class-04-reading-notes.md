@@ -1,7 +1,27 @@
-# Class X Reading Assignment
+# Class 04 Reading Assignment
 
-## Title ([link]())
+## Routing
+
+VirtualBox Network Settings Guide ([article](https://www.nakivo.com/blog/virtualbox-network-setting-guide/))
+
+1. **Which network mode in VirtualBox can be used to emulate unplugging the Ethernet cable from the network?**
+   - Not attached.
+2. **Which network mode would be best if you wanted to run a server on a VM that could be fully accessible from your physical local area network?**
+   - Bridged Mode.
+3. **What are the three options of promiscuous mode and what does each do?**
+   - **Deny** - Any traffic that is not intended to the virtual network adapter of the VM is hidden from the VM. This option is set by default.
+   - **Allow VMs** - All traffic is hidden from the VM network adapter except the traffic transmitted to and from other VMs.
+   - **Allow All** - There are no restrictions in this mode. A VM network adapter can see all incoming and outgoing traffic.
+4. **What is Port Forwarding?**
+   - Port forwarding is a process of intercepting traffic addressed to the appropriate IP address and port in addition to redirecting that traffic to a different IP address and/or port.
 
 ## Additional Resources
 
+Network Topologies ([video](https://www.professormesser.com/network-plus/n10-008/n10-008-video/network-topologies-5/))
+Routing Technologies ([video](https://www.professormesser.com/network-plus/n10-008/n10-008-video/routing-technologies-n10-008/))
+Dynamic Routing ([video](https://www.professormesser.com/network-plus/n10-008/n10-008-video/n10-008-dynamic-routing/))
+Network Switching Overview ([video](https://www.professormesser.com/network-plus/n10-008/n10-008-video/network-switching-overview-n10-008/))
+
 ## Things I Want to Know More About
+
+How does other VM software deal with these same issues? Is it slight differences but ultimately the same approach or are they wildy different?
