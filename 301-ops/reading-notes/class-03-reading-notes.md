@@ -30,8 +30,13 @@
 
 ## Additional Resources
 
-Classful Subnetting [video](https://www.professormesser.com/network-plus/n10-008/n10-008-video/classful-subnetting-n10-008/)
-VLANs and Trunking [video](https://www.professormesser.com/network-plus/n10-008/n10-008-video/vlans-and-trunking-n10-008/)
+Classful Subnetting ([video](https://www.professormesser.com/network-plus/n10-008/n10-008-video/classful-subnetting-n10-008/))
+VLANs and Trunking ([video](https://www.professormesser.com/network-plus/n10-008/n10-008-video/vlans-and-trunking-n10-008/))
+
+What is VLAN? ([article](https://www.guru99.com/vlan-definition-types-advantages.html#9))
+Subnetting Implementation in Cisco Packet Tracer ([article](https://www.geeksforgeeks.org/subnetting-implementation-in-cisco-packet-tracer/))
+Configuring VLANs and Trunking ([pdf](https://sites.radford.edu/~hlee3/classes/backup/itec451_spring2017/Cisco/CCNA2_RSE_spring2017/Lab%20Source%20Files_solutions/6.2.2.5%20Lab%20-%20Configuring%20VLANs%20and%20Trunking%20-%20solution.pdf))
+Basic VLAN Configuration ([pdf](https://web.archive.org/web/20220326211906/https://courses.cs.ut.ee/2012/NT/juh/3_1.pdf))
 
 ## Things I Want to Know More About
 
