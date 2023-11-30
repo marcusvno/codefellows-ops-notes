@@ -17,10 +17,10 @@ VirtualBox Network Settings Guide ([article](https://www.nakivo.com/blog/virtual
 
 ## Additional Resources
 
-Network Topologies ([video](https://www.professormesser.com/network-plus/n10-008/n10-008-video/network-topologies-5/))
-Routing Technologies ([video](https://www.professormesser.com/network-plus/n10-008/n10-008-video/routing-technologies-n10-008/))
-Dynamic Routing ([video](https://www.professormesser.com/network-plus/n10-008/n10-008-video/n10-008-dynamic-routing/))
-Network Switching Overview ([video](https://www.professormesser.com/network-plus/n10-008/n10-008-video/network-switching-overview-n10-008/))
+- Network Topologies ([video](https://www.professormesser.com/network-plus/n10-008/n10-008-video/network-topologies-5/))
+- Routing Technologies ([video](https://www.professormesser.com/network-plus/n10-008/n10-008-video/routing-technologies-n10-008/))
+- Dynamic Routing ([video](https://www.professormesser.com/network-plus/n10-008/n10-008-video/n10-008-dynamic-routing/))
+- Network Switching Overview ([video](https://www.professormesser.com/network-plus/n10-008/n10-008-video/network-switching-overview-n10-008/))
 
 ## Things I Want to Know More About
 
