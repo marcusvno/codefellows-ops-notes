@@ -25,7 +25,7 @@ VirtualBox Network Settings Guide ([article](https://www.nakivo.com/blog/virtual
 Getting Started with Cisco Packet Tracer [mini-course](https://skillsforall.com/course/getting-started-cisco-packet-tracer?courseLang=en-US)
 Packet Tracer - BGP Configuration [mini-tutorial](https://www.packettracernetwork.com/tutorials/bgp.html#:~:text=BGP%20in%20Packet%20Tracer,network%20policies%20and%2For%20rulesets.)
 Cisco IOS IP Routing: RIP Command Reference [documentation](https://www.cisco.com/c/en/us/td/docs/ios/iproute_rip/command/reference/irr_book/irr_rip.html)
-Static Routing Configuration [mini-tutorial]()
+Static Routing Configuration [mini-tutorial](https://www.computernetworkingnotes.com/ccna-study-guide/static-routing-configuration-guide-with-examples.html)
 
 ## Things I Want to Know More About
 
