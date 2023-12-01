@@ -22,6 +22,11 @@ VirtualBox Network Settings Guide ([article](https://www.nakivo.com/blog/virtual
 - Dynamic Routing ([video](https://www.professormesser.com/network-plus/n10-008/n10-008-video/n10-008-dynamic-routing/))
 - Network Switching Overview ([video](https://www.professormesser.com/network-plus/n10-008/n10-008-video/network-switching-overview-n10-008/))
 
+Getting Started with Cisco Packet Tracer [mini-course](https://skillsforall.com/course/getting-started-cisco-packet-tracer?courseLang=en-US)
+Packet Tracer - BGP Configuration [mini-tutorial](https://www.packettracernetwork.com/tutorials/bgp.html#:~:text=BGP%20in%20Packet%20Tracer,network%20policies%20and%2For%20rulesets.)
+Cisco IOS IP Routing: RIP Command Reference [documentation](https://www.cisco.com/c/en/us/td/docs/ios/iproute_rip/command/reference/irr_book/irr_rip.html)
+Static Routing Configuration [mini-tutorial]()
+
 ## Things I Want to Know More About
 
 How does other VM software deal with these same issues? Is it slight differences but ultimately the same approach or are they wildy different?
