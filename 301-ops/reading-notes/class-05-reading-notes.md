@@ -18,6 +18,9 @@
 Remote Access ([video](https://www.professormesser.com/network-plus/n10-008/n10-008-video/remote-access-n10-008/))
 Other Useful Protocols ([video](https://www.professormesser.com/network-plus/n10-008/n10-008-video/other-useful-protocols-n10-008/))
 
+Configuring a Site-to-Site IPsec VPN ([documentation](https://docs.netgate.com/pfsense/en/latest/recipes/ipsec-s2s-psk.html))
+Troubleshooting IPsec VPNs ([documentation](https://docs.netgate.com/pfsense/en/latest/troubleshooting/ipsec.html))
+
 ## Things I Want to Know More About
 
 How do I use a VPN to setup a Virtual Private Cloud?
