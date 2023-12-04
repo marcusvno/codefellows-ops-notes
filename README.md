@@ -38,4 +38,4 @@
 3. Class 03 - [Network Segmentation](301-ops/reading-notes/class-03-reading-notes.md#class-03-reading-assignment)
 4. Class 04 - [Routing and VirtualBox](301-ops/reading-notes/class-04-reading-notes.md#class-04-reading-assignment)
 5. Class 05 - [VPN Tunnels](301-ops/reading-notes/class-05-reading-notes.md#class-05-reading-assignment)
-6. Class 06 - [Network Address Translation](301/reading-notes/class-06-reading-notes.md#class-06-reading-assignment)
+6. Class 06 - [Network Address Translation](301-ops/reading-notes/class-06-reading-notes.md#class-06-reading-assignment)
