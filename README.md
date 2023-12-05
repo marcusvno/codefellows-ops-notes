@@ -39,3 +39,4 @@
 4. Class 04 - [Routing and VirtualBox](301-ops/reading-notes/class-04-reading-notes.md#class-04-reading-assignment)
 5. Class 05 - [VPN Tunnels](301-ops/reading-notes/class-05-reading-notes.md#class-05-reading-assignment)
 6. Class 06 - [Network Address Translation](301-ops/reading-notes/class-06-reading-notes.md#class-06-reading-assignment)
+7. Class 07 - [Web Server Deployment](301-ops/reading-notes/class-07-reading-notes.md#class-07-reading-assignment)
