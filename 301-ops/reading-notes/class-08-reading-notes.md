@@ -11,12 +11,9 @@
 3. **What is the role of the NAS in the AAA implementation using an ACS server? Use a diagram.**
     - The client or Network Access Server (NAS) sends authentication requests to the ACS server and the server takes the decision to allow the user to access the network resource or not according to the credentials provided by the user.
 
-<div style="text-align:center">
-
 ![AAA network diagram](https://techhub.hpe.com/eginfolib/networking/docs/switches/5130ei/5200-3946_security_cg/content/images/image1.png)
 
-</div>
-<div style="text-align:center">(Image from HP Enterprise)</div>
+(Image from HP Enterprise)
 
 ## RADIUS Concepts ([article](https://archive.is/27Y19#selection-2061.0-2077.160))
 
@@ -28,12 +25,10 @@
     - **Password Authentication Protocol (PAP) -** The RADIUS client forwards the remote user's user ID and password to the RADIUS authentication server. If the credentials are correct, the server authenticates the user and the RADIUS client enables the remote user to connect to the network.
     - **Challenge Handshake Authentication Protocol (CHAP) -** Also known as a three-way handshake, CHAP authentication relies on the client and server using an encrypted shared secret. Compared to PAP, CHAP authentication is considered more secure because it encrypts authentication exchanges and it can be configured to do repeated mid-session authentications
 
-<div style="text-align:center">
 
 ![radius protocol architecture](https://archive.is/27Y19/65f5e54fc396b8bbab5b03c23a026a5ad255436e.png)
 
-</div>
-<div style="text-align:center">(Image from TechTarget)</div>
+(Image from TechTarget)
 
 
 ## Additional Resources
