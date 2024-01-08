@@ -41,3 +41,7 @@
 6. Class 06 - [Network Address Translation](301-ops/reading-notes/class-06-reading-notes.md#class-06-reading-assignment)
 7. Class 07 - [Web Server Deployment](301-ops/reading-notes/class-07-reading-notes.md#class-07-reading-assignment)
 8. Class 08 - [RADIUS Authentication](301-ops/reading-notes/class-08-reading-notes.md#class-08-reading-assignment)
+
+## Ops 401 - Cybersecurity
+1. Class 01 - [Strategic Policy Development](401-ops/reading-notes/class-01-reading-notes.md#class-01-reading-assignment)
+
