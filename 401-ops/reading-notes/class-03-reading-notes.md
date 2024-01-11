@@ -8,7 +8,7 @@
 
 1. **Consider a bank ATM that allows users to access bank account balances. What measures can the ATM incorporate to cover the principles of the CIA triad?**
     - *Confidentiality*: More privacy protections of when someone accesses an ATM. Perhaps a booth?
-    - *Integrity*: ATM cards requiring multi-factor authentication beyond simply a PIN to access the bank account balance.
+    - *Integrity*: ATM cards requiring multi-factor authentication beyond simply a PIN to access the bank account balance, as well as confirmation checks for transactions.
     - *Availability*: Constant maintenance and security on the ATM itself.
 
 2. **Name three best practices that support the CIA triad.**
