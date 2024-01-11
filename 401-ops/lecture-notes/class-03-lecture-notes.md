@@ -109,6 +109,7 @@ Methods can include:
 ## Risk Management Options
 
 - **Risk Acceptance**: Acknowledge the risk exists but do nothing.
+- **Risk Ignore**: You ignore the risk exists.
 - **Risk Avoidance**: Avoid the risky behaviour.
 - **Risk Mitigation**: Reduce the risk.
 - **Risk Transference**: Moving the risk to a third party for coverage. (Think car insurance)
@@ -118,3 +119,21 @@ Methods can include:
 - **Risk Avoidance**: Update it to Windows 10.
 - **Risk Mitigation**: Reduce the usage of the Windows Vista Server.
 - **Risk Transference**: Cybersec insurance?
+
+## NIST ([link](https://www.nist.gov/cyberframework))
+
+- **Can risk be eliminated?**
+  - Cyber Risk can't be fully eliminated, but it can be significantly mitigated.
+  - Residual risk consists of the risk remaining after security controls have been put in place as a means of risk mitigation.
+
+The **NIST Risk Management Framework** (RMF) is a voluntary guidance, based on existing standards, guidelines, and practices for organizations to better manage and reduce cybersecurity risk. 
+
+## Cyber Hygiene
+
+- **What is cyber hygiene?**
+  - Cyber hygiene includes practices and precautions that faciliate keeping senstitive data organized, safe, and secure from exfiltration and attack.
+
+- **How do security teams work mitigate risk for their employer or clientele?**
+  - Regulary evaluate for cyber hygiene
+  - Perform vulnerability scans and assessment
+  - Generate risk assessments which faciliate better organizational decision making
