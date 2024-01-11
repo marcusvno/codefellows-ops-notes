@@ -79,7 +79,7 @@ Basically: How much does it cost if it happens once times the chances of it happ
   - Laptop ($1000) + PII (Personal Identifiable Information) ($9000) per loss (**A**sset **V**alue)
   - It a 100% loss. (**E**xposure **F**actor)
 
-`SLE = AV x EF`
+The formula: `SLE = AV x EF`
 
 - Loss per laptop is $10,000 (AV) x 100% (EF) = $10,000 (SLE)
 
