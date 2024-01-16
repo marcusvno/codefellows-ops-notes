@@ -1,6 +1,11 @@
 # Class X Reading Assignment
 
-## Title ([link]())
+## Title 
+- ([link]())
+
+## Questions
+
+
 
 ## Additional Resources
 
