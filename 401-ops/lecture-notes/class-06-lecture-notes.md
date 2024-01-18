@@ -92,9 +92,6 @@
 - **File Transfer Protocol (FTP)** facilitates the transfer of files between hosts.
   - Uses TCP/IP
   - Connection established on **TCP port 21**
-  - Username/password crednetials are sent in plaintext.
-    - VERY INSECURE
--**Secure File Transfer Protocol (SFTP)** facilitates the *secure* transfer of files between hosts.
+  - Username/password crednetials are sent in plaintext. - VERY INSECURE -**Secure File Transfer Protocol (SFTP)** facilitates the _secure_ transfer of files between hosts.
   - It does this by utilizing SSH with encrypted credentials.
   - Connects through **TCP port 22**.
-
