@@ -7,7 +7,7 @@
   - A central team that monitors security infrastructure
   - The SOC team is responsible for monitoring, detecting ,responding to, and mitigating security threats and incidents.
 
-- A **security incident** is an event or series of events that compromise the confidentiality, integrity, or availability, of an organization's informaton, systems, or network.
+- A **security incident** is an event or series of events that compromise the confidentiality, integrity, or availability, of an organization's information, systems, or network.
 - **Incident Response (IR)** is the process by which an organization handles a data breach, cyber attack, or leak. Includes remediation and post-event action.
 
 - **Threat hunters**, however, do not perform the full IR lifecycle and instead focus on identification and detection.
@@ -28,7 +28,7 @@
 - Ticketing Solutions
 
 - SIEMs are about **log aggregation**
-  - Security Information and Event Management (SIEM) is software that aggegates and analyzes activity from many different resources in your IT infrastructure
+  - Security Information and Event Management (SIEM) is software that aggregates and analyzes activity from many different resources in your IT infrastructure
     - Examples:
       - Splunk (commercial)
       - Elastic/ELK Stack (open source)
@@ -48,9 +48,9 @@
   - A widely used software designed for searching, analyzing, and visualizing machine-generated data in real-time.
   - Primarily used for log and event data management and is especially valuable for monitoring the security of IT systems.
 
-- Splink uses a **Search Processing Language** (SPL), similar to **SQL**.
+- Splunk uses a **Search Processing Language** (SPL), similar to **SQL**.
   - Designed specifically for querying and analyzing data and filter large volumes of data.
-  - Syntax orginally based on the Unix pipeline and SQL.
+  - Syntax originally based on the Unix pipeline and SQL.
 - **SPL scope:**
   - Data searching
   - Filtering
