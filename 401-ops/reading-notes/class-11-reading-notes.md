@@ -15,4 +15,4 @@
       - Remediation Activities
       - Automation Development and Engineering.
 2. **Explain how a SOAR solution fits into the Incident Response process.**
-    - Automated incident response capabilities can accelerate your incident response processes, such as blocking, containing, detecting, or otherwise reacting to threats in a rapid manner. This creates a more efficient use of human manhours to dealing with incidents. 
+    - Automated incident response capabilities can accelerate your incident response processes, such as blocking, containing, detecting, or otherwise reacting to threats in a rapid manner. This creates a more efficient use of human manhours to dealing with incidents.
