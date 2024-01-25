@@ -78,7 +78,12 @@ The **Cyber Kill Chain** is _CRITICAL KNOWLEDGE_, much like the **CIA Triad**.
       - Often utilizes some form of social engineering to facilitate delivery.
     - Exploit mismanaged or misconfigured servers.
 4. **Exploitation**
+    - Malware executed.
+    - Discovered vulnerabilities exploited
+    - Superuser access grated / privileges escalated to threat actor.
 5. **Installation**
+    - Malware embeds itself into the system.
+    - Additional malware components are downloaded.
 6. **Command and Control (C2)**
     - Management and communication established from attack to malware infection and compromised host.
     - Facilitates greater movement within target network.
