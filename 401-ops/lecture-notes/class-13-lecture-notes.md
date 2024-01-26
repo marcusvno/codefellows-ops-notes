@@ -50,5 +50,37 @@ Example:
     - **.001: Spearphishing Attachments -** Adversaries may send spearphishing emails with a malicious attachment in an attempt to gain access to victim systems.
       - **TA0001:T1566.001**
 
+## API (Application Programming Interface)
+
+APIs are used to allow the integration of different software systems, allowing them to work together, share data, and perform tasks. Most websites use an API to connect the front end with the backend.
+
+- **Why do we need to analyze API interactions in the cloud?**
+  - Security Vulnerabilities
+    - APIs interact with databases and servers on the backend and are accessed from a public-facing website or applications this should be ringing alarm bells.
+
+### REST APIs
+
+- **REST (Representational State Transfer) API**
+  - A type of modern architectural API facilitating machine to machine communication
+  - Uses _HTTP methods_:
+    - **GET** to fetch data
+    - **PUT** to alter the state of data (such as object, file, or block)
+    - **POST** to create data
+    - **DELETE** to remove data
 
 
+## Amazon S3
+
+- **What is AWS S3?**
+  - A cloud data storage service
+  - "Buckets" contain objects
+    - Objects consist of data and metadata
+      - Example: puppy.jpg
+    - Keys are the unique identifier of an object within a bucket
+    - Regions contain the bucket you create.
+
+- **Access**
+  - S3 can be access by AWS CLI as well as web interface (much like the rest of AWS)
+  - Includes a REST API
+    - Requests to Amazon S3 can be authenticated or anonymous
+      - Authenticated access requires credentials that AWS can use to authenticate your request.
