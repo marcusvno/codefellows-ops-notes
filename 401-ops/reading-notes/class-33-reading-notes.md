@@ -14,7 +14,7 @@
 
 ## Additional Resources
 
-- **Active Countermeasures**
+- **Active Countermeasures** ([link](https://www.activecountermeasures.com/))
     - The creator of the RITA tool, AC is an excellent resource for threat hunting tools and topics.
-- **SQRLL Archive**
+- **SQRLL Archive** ([link](https://www.threathunting.net/sqrrl-archive))
     - “From about 2015 until they were purchased by Amazon Web Services (AWS) in early 2018, Sqrrl was a threat hunting platform vendor with an unusually strong focus on teaching the cybersecurity community about threat hunting best practices. They published some of what are still foundational documents about threat hunting.”
