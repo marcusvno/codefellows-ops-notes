@@ -16,4 +16,4 @@
 - An Introduction to OSINT Gathering ([article](https://www.secjuice.com/introduction-to-open-source-intelligence-osint/))
 
 ## Things I Want to Know More About
-How, if it is at all possible, does someone get a job in OSINT? 
+How does someone without an intelligence background get a job in OSINT ? 
